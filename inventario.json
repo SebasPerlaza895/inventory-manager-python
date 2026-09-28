@@ -1,0 +1,27 @@
+[
+    {
+        "nombre": "Casco Premium",
+        "cantidad": 4,
+        "precio": 650000.0
+    },
+    {
+        "nombre": "Guantes para moto",
+        "cantidad": 6,
+        "precio": 130000.0
+    },
+    {
+        "nombre": "Chaqueta de Cuero",
+        "cantidad": 5,
+        "precio": 950000.0
+    },
+    {
+        "nombre": "Chaleco Reflectivo",
+        "cantidad": 6,
+        "precio": 26000.0
+    },
+    {
+        "nombre": "Kit Rodilleras Y Coderas",
+        "cantidad": 8,
+        "precio": 74000.0
+    }
+]
